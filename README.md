@@ -7,6 +7,8 @@
 <br>
 </p>
 
+[Website](https://mrbanano.github.io/Hero-page/index.html)
+
  **hero-page** is a static website developed with `HTML5` and `CSS3`with a hero page to practice design trendsit has a background image and a title, with the necessary styles to be considered a hero page, it is simple and basic but it serves as a basis for future projects
 <p align="center">
 <br>
